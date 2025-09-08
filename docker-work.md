@@ -13,6 +13,8 @@ DOCKERHUB_USERNAME → Docker Hub 아이디
 
 DOCKERHUB_TOKEN → Docker Hub Personal Access Token (비밀번호 대신 사용 권장)
 
+![alt text](image-2.png)
+
 2. GitHub Actions 워크플로우 예시
 name: CI/CD with Docker Hub
 
